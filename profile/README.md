@@ -4,13 +4,13 @@ Moderato-CMaaS is a flexible, AI-powered SaaS platform that enables developers a
 
 ---
 
-## 🚀 Production URL  
+## Production URL  
 
 Access the live platform here: **[https://moderato.dev](https://moderato.dev)**  (Beta)
 
 ---
 
-## 📚 Complete Documentation  
+## Complete Documentation  
 
 For comprehensive guides, API references, setup instructions, and interactive examples, visit our complete documentation:
 
@@ -28,6 +28,6 @@ For comprehensive guides, API references, setup instructions, and interactive ex
 
 ---
 
-## 🤝 Contributing  
+## Contributing  
 
 We welcome contributions from the community! Whether it's reporting issues, improving documentation, or submitting pull requests — every bit helps. Please read our [CONTRIBUTING.md](../CONTRIBUTING.md) for guidelines on how to get started.
