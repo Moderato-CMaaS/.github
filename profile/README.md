@@ -14,7 +14,7 @@ Access the live platform here: **[https://moderato.dev](https://moderato.dev)** 
 
 For comprehensive guides, API references, setup instructions, and interactive examples, visit our complete documentation:
 
-[![View Complete Documentation](https://img.shields.io/badge/View_Complete-Documentation-blue?style=for-the-badge&logo=gitbook)](https://iwb25-412-vertex-prime.github.io/Moderato_Doc/)
+[![View Complete Documentation](https://img.shields.io/badge/View_Complete-Documentation-blue?style=for-the-badge&logo=gitbook)](https://moderato-cmaas.github.io/Moderato_Doc/)
 
 **What you'll find in the documentation:**
 - **Quick Start Guide** - Get up and running in minutes  
